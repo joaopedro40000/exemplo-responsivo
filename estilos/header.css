@@ -1,0 +1,10 @@
+.cabecalho{
+     background-color: var(--fundo azul);
+     margin: 0;
+}
+.container{
+    display: flex; align-items: center ;
+}
+.container_imagem{
+    width: 120px; height: 120px;
+}
